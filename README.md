@@ -1,4 +1,5 @@
 # Corporate Finance
+The focus of this book is how to make optimal corporate financial decisions.
 # 1. The Corporation
 # 2. Introduction to Financial Statement Analysis
 # 3. Financial Decision Making and the Law of One Price
