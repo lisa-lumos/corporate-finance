@@ -7,7 +7,7 @@ Today, the corporate structure is ubiquitous all over the world, and yet continu
 
 Government bailouts have provoked challenging questions, regarding the role of the federal government in the control and management of private corporations. In the wake of the crisis, significant reforms of the regulation, and oversight of financial markets were passed into law. 
 
-## The Four Types of Firms
+## 1.1 The Four Types of Firms
 The 4 major types of firms: 
 - Sole proprietorships
 - Partnerships
@@ -72,6 +72,37 @@ A unique feature of a corporation is that, there is no limitation on who can own
 The availability of outside funding has enabled corporations to dominate the economy. 
 
 ### Tax Implications for Corporate entities
+An important difference between the types of organizational forms, is the way they are taxed. Because a corporation is a separate legal entity, a corporation's profits are subject to taxation, separate from its owners' tax obligations. 
+
+In effect, shareholders of a corporation pay taxes twice. First, the corporation pays tax on its profits, and then when the remaining profits are distributed to the shareholders, the shareholders pay their own personal income tax on this income. This system is sometimes referred to as `"double taxation"`.
+
+For example, you are a shareholder in a corporation. The corporation earns $5 per share before taxes. After it has paid taxes, it will distribute the rest of its earnings to you as a dividend. The dividend is income to you, so you will then pay taxes on these earnings. 
+
+`S Corporations`: The corporate organizational structure is the only organizational structure subject to double taxation. However, the U.S. Internal Revenue Code allows an exemption from double taxation for "S" corporations, which are corporations that elect `subchapter S tax treatment`.
+
+Under these tax regulations, the firm's profits (and losses) are not subject to corporate taxes, but instead, are allocated directly to shareholders, based on their ownership share. The shareholders must include these profits as income on their individual tax returns (even if no money is distributed to them). However, after the shareholders have paid income taxes on these profits, no further tax is due.
+
+Most countries offer investors in corporations some relief from double taxation. The United States offers partial relief, by having a lower tax rate on dividend income than on other sources of income. As of 2015, for most investors, qualified dividends are taxed at up to 20%, a rate significantly below their personal income tax rate. Despite this relief, the effective corporate tax rate in the U.S. is one of the highest in the world. 
+
+The government places strict limitations on the qualifications for subchapter S tax treatment. In particular, the shareholders of such corporations must be individuals who are U.S. citizens or residents, and there can be no more than 100 of them. Because most corporations have no restrictions on who owns their shares, or the number of shareholders, they cannot qualify for subchapter S treatment. Thus most large corporations are `"C" corporations`, which are corporations subject to corporate taxes. S corporations account for less than 25% of all corporate revenue.
+
+## 1.2 Ownership Versus Control of Corporations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
