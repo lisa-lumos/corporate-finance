@@ -87,9 +87,11 @@ Most countries offer investors in corporations some relief from double taxation.
 The government places strict limitations on the qualifications for subchapter S tax treatment. In particular, the shareholders of such corporations must be individuals who are U.S. citizens or residents, and there can be no more than 100 of them. Because most corporations have no restrictions on who owns their shares, or the number of shareholders, they cannot qualify for subchapter S treatment. Thus most large corporations are `"C" corporations`, which are corporations subject to corporate taxes. S corporations account for less than 25% of all corporate revenue.
 
 ## 1.2 Ownership Versus Control of Corporations
+It is often not feasible for the owners of a corporation to have direct control of the firm, because there are sometimes many owners, each of whom can freely trade their stock. That is, in a corporation, direct control and ownership are often separate. 
 
+Rather than the owners, the board of directors and chief executive officer possess direct control of the corporation. 
 
-
+The shareholders of a corporation exercise their control, by electing a board of directors, a group of people who have the ultimate decision-making authority in the corporation.
 
 
 
