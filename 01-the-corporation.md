@@ -89,12 +89,39 @@ The government places strict limitations on the qualifications for subchapter S 
 ## 1.2 Ownership Versus Control of Corporations
 It is often not feasible for the owners of a corporation to have direct control of the firm, because there are sometimes many owners, each of whom can freely trade their stock. That is, in a corporation, direct control and ownership are often separate. 
 
-Rather than the owners, the board of directors and chief executive officer possess direct control of the corporation. 
+Rather than the owners, the "board of directors", and "chief executive officer", possess direct control of the corporation. 
 
 The shareholders of a corporation exercise their control, by electing a board of directors, a group of people who have the ultimate decision-making authority in the corporation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+## Other Notes
+Goldman Sachs discussion on converting from a partnership to a corporation:
+- Public corporation: 
+  - Offers greater financial and strategic flexibility, for aggressive growth
+  - Has a more stable equity base, to support growth and disperse risk. 
+  - Increased access to large public debt markets
+  - Publicly trade securities, to do acquisitions, motivate employees, etc
+  - Simpler/transparent structure, to increase scale and global reach
+- Partnership:
+  - Generate capital internally, fund growth in the private placement markets
+  - Have long-term view of returns with investment, with less focus on earning volatility, which is not valued in public companies
+  - Retain voting control and alignment of the partners and the firm. 
+
+What drove the conversion:
+- To secure permanent capital to grow
+- To be able to use publicly traded securities, to finance acquisitions;
+- To enhance the culture of ownership, and gain compensation flexibility.
 
 
 
