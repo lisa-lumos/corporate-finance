@@ -107,7 +107,7 @@ The most senior financial manager is the chief financial officer (CFO), who ofte
 A typical organizational chart:
 
 <p align="center">
-<img src="images/01-organizationsl-chart.png" width="50%" >
+<img src="images/01-organizations-chart.png" width="50%" >
 </p>
 
 ### The Financial Manager
