@@ -111,6 +111,11 @@ A typical organizational chart:
 </p>
 
 ### The Financial Manager
+Within the corporation, financial managers are responsible for three main tasks: making investment decisions, making financing decisions, and managing the firm's cash flows.
+
+Investment Decisions. It is the financial manager's most important job. They must weigh the costs and benefits of all investments and projects, and decide which of them qualify as good uses of the money stockholders have invested in the firm. These investment decisions fundamentally shape what the firm does, and whether it will add value for its owners. 
+
+
 
 
 ### The goal of the Firm
