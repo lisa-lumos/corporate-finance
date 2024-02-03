@@ -115,8 +115,9 @@ Within the corporation, financial managers are responsible for three main tasks:
 
 Investment Decisions. It is the financial manager's most important job. They must weigh the costs and benefits of all investments and projects, and decide which of them qualify as good uses of the money stockholders have invested in the firm. These investment decisions fundamentally shape what the firm does, and whether it will add value for its owners. 
 
+Financing Decisions. Once the financial manager has decided which investments to make, they also decide how to pay for them. Large investments may require the corporation to raise additional money. They must decide whether to raise more money from new/existing owners by selling more shares of stock (equity), or to borrow the money (debt). 
 
-
+Cash Management. The financial manager must ensure that the firm has enough cash on hand, to meet its day-to-day obligations - managing working capital. It may seem straightforward, but in a young or growing company, it can mean the difference between success and failure. Even companies with great products require significant amounts of money to develop, and bring those products to market. A company typically burns through a significant amount of cash developing a new product, before its sales generate income. 
 
 ### The goal of the Firm
 
