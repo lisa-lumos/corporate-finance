@@ -120,10 +120,18 @@ Financing Decisions. Once the financial manager has decided which investments to
 Cash Management. The financial manager must ensure that the firm has enough cash on hand, to meet its day-to-day obligations - managing working capital. It may seem straightforward, but in a young or growing company, it can mean the difference between success and failure. Even companies with great products require significant amounts of money to develop, and bring those products to market. A company typically burns through a significant amount of cash developing a new product, before its sales generate income. 
 
 ### The goal of the Firm
+In theory, the goal of a firm should be determined by the firm's owners. But in organizational forms with multiple owners, the appropriate goal of the firm is not as clear.
 
+Many corporations have thousands of owners (shareholders). The interests of shareholders are aligned for many important decisions. That is because, regardless of their own personal financial position and stage in life, all the shareholders will agree that they are better off, if management makes decisions that increase the value of their shares.
 
 ### The Firm and Society
+Are decisions that increase the value of the firm's equity beneficial for society as a whole? Most often they are.
 
+The problem occurs when increasing the value of equity comes at the expense of others. Consider a corporation that, in the course of business, pollutes the environment, and does not pay the costs to clean up the pollution. In such cases, decisions that increase shareholder wealth can be costly for society as whole.
+
+The 2008 financial crisis highlighted another example of decisions that can increase shareholder wealth but are costly for society. In the early part of the last decade, banks took on excessive risk. For a while, this strategy benefited the banks' shareholders. But when the bets went bad, the resulting financial crisis harmed the broader economy.
+
+When the actions of the corporation impose harm on others in the economy, appropriate public policy and regulation is required, to assure that corporate interests and societal interests remain aligned. Sound public policy should allow firms to continue to pursue the maximization of shareholder value, in a way that benefits society overall.
 
 ### Ethics and Incentives within Corporations
 
