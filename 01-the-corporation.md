@@ -134,6 +134,13 @@ The 2008 financial crisis highlighted another example of decisions that can incr
 When the actions of the corporation impose harm on others in the economy, appropriate public policy and regulation is required, to assure that corporate interests and societal interests remain aligned. Sound public policy should allow firms to continue to pursue the maximization of shareholder value, in a way that benefits society overall.
 
 ### Ethics and Incentives within Corporations
+A corporation is run by a management team, separate from its owners, giving rise to conflicts of interest. How can the owners of a corporation ensure that the management team will implement their goals?
+
+The agency problem: when managers, despite being hired as the agents of shareholders, put their own self-interest ahead of the interests of shareholders. Managers face the ethical dilemma of whether to adhere to their responsibility to put the interests of shareholders first, or to do what is in their own personal best interest.
+
+This problem is commonly addressed in practice, by minimizing the number of decisions managers must make, for which their own self-interest substantially differs from the interests of the shareholders. For example, managers' compensation contracts are designed to ensure that most decisions in the shareholders' interest are also in the managers' interests; shareholders often tie the compensation of top managers to the corporation's profits, or perhaps to its stock price.
+
+There is, however, a limitation to this strategy. By tying compensation too closely to performance, the shareholders might be asking managers to take on more risk than they are comfortable taking. As a result, managers may not make decisions that the shareholders want them to, or it might be hard to find talented managers willing to accept the job. On the other hand, if compensation contracts reduce managers' risk, by rewarding good performance, but limiting the penalty associated with poor performance, managers may have an incentive to take excessive risk.
 
 
 ## 1.3 The Stock Market
