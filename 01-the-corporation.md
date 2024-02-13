@@ -142,6 +142,35 @@ This problem is commonly addressed in practice, by minimizing the number of deci
 
 There is, however, a limitation to this strategy. By tying compensation too closely to performance, the shareholders might be asking managers to take on more risk than they are comfortable taking. As a result, managers may not make decisions that the shareholders want them to, or it might be hard to find talented managers willing to accept the job. On the other hand, if compensation contracts reduce managers' risk, by rewarding good performance, but limiting the penalty associated with poor performance, managers may have an incentive to take excessive risk.
 
+Further potential for conflicts of interest and ethical considerations arise, when some stakeholders in the corporation benefit, and others lose from a decision. Shareholders and managers are two types of stakeholders in the corporation, but others include the regular employees, and the communities in which the company operates, etc. 
+
+Managers may decide to take the interests of other stakeholders into account in their decisions, such as keeping a loss-generating factory open, because it is the main provider of jobs in a small town, paying above-market wages to factory workers in a developing country, or operating a plant at a higher environmental standard than local law mandates.
+
+In some cases, these actions that benefit other stakeholders also benefit the firm's shareholders, by creating a more dedicated workforce, generating positive publicity with customers, or other indirect effects. In other instances, when these decisions benefit other stakeholders at shareholders' expense, they represent a form of "corporate charity". Indeed, many if not most corporations explicitly donate (on behalf of their shareholders) to local and global charitable and political causes. 
+
+For example, in 2013, Walmart gave $312 million in cash to charity (making it the largest corporate donor of cash in that year). These actions are costly and reduce shareholder wealth. Thus, while some shareholders might support such policies because they feel that they reflect their own moral and ethical priorities, it is unlikely that all shareholders will feel this way, leading to potential conflicts of interest amongst shareholders.
+
+The CEO's Performance. Another way shareholders can encourage managers to work in the interests of shareholders, is to discipline them if they don't. If shareholders are unhappy with a CEO's performance, they could, in principle, pressure the board to oust the CEO.
+
+Despite these high-profile examples, directors and top executives are rarely replaced through a grassroots shareholder uprising. Instead, dissatisfied investors often choose to sell their shares. 
+
+If enough shareholders are dissatisfied, the only way to entice investors to buy (or hold on to) the shares is to offer them a low price. Similarly, investors who see a well-managed corporation will want to purchase shares, which drives the stock price up. Thus, the stock price of the corporation is a barometer for corporate leaders, that continuously gives them feedback on their shareholders' opinion of their performance.
+
+When the stock performs poorly, the board of directors might react by replacing the CEO. In some corporations, however, the senior executives are entrenched, because boards of directors do not have the will to replace them - often, the reluctance to fire is because the board members are close friends of the CEO, and lack objectivity.
+
+In corporations in which the CEO is entrenched and doing a poor job, the expectation of continued poor performance will decrease the stock price. Low stock prices create a profit opportunity. 
+
+In a "hostile" takeover, an individual or organization, sometimes known as a "corporate raider", can purchase a large fraction of the stock, and acquire enough votes to replace the board of directors and the CEO. With a new superior management team, the stock is a much more attractive investment, which would likely result in a price rise, and a profit for the corporate raider and the other shareholders.
+
+Although the words "hostile" and "raider" have negative connotations, corporate raiders themselves provide an important service to shareholders. The mere threat of being removed as a result of a hostile takeover, is often enough to discipline bad managers, and motivate boards of directors to make difficult decisions. Consequently, when a corporation's shares are publicly traded, a "market for corporate control" is created, that encourages managers and boards of directors to act in the interests of their shareholders.
+
+Corporate bankruptcy. Ordinarily, a corporation is run on behalf of its shareholders. But when a corporation borrows money, the firm's debt holders also become investors in the corporation. While the debt holders do not normally exercise control over the firm, if the corporation fails to repay its debts, the debt holders are entitled to seize the assets of the corporation, in compensation for the default.
+
+To prevent such a seizure, the firm may attempt to renegotiate with the debt holders, or file for bankruptcy protection in a federal court. Ultimately, however, if the firm is unable to repay or renegotiate with the debt holders, the control of the corporation's assets will be transferred to them.
+
+Thus, when a firm fails to repay its debts, the end result is a change in ownership of the firm, with control passing from equity holders to debt holders. Importantly, bankruptcy need not result in a liquidation of the firm, which involves shutting down the business and selling off its assets. Even if control of the firm passes to the debt holders, it is in the debt holders' interest to run the firm in the most profitable way possible. Doing so often means keeping the business operating.
+
+Thus, a corporate bankruptcy is best thought of as a change in ownership of the corporation, and not necessarily as a failure of the underlying business.
 
 ## 1.3 The Stock Market
 
