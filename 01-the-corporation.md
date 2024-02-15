@@ -173,6 +173,24 @@ Thus, when a firm fails to repay its debts, the end result is a change in owners
 Thus, a corporate bankruptcy is best thought of as a change in ownership of the corporation, and not necessarily as a failure of the underlying business.
 
 ## 1.3 The Stock Market
+Because private companies have a limited set of shareholders, and their shares are not regularly traded, the value of their shares can be difficult to determine. But many corporations are public companies, whose shares trade on organized markets, called a stock market (or stock exchange).
+
+These markets provide liquidity, and determine a market price for the company's shares. An investment liquid, if it is possible to sell it quickly and easily, for a price very close to the price at which you could contemporaneously buy it. 
+
+This liquidity is attractive to outside investors, as it provides flexibility regarding the timing and duration of their investment in the firm. In addition, the research and trading of participants in these markets give rise to share prices, that provide constant feedback to managers regarding investors' views of their decisions.
+
+### Primary and Secondary Stock Markets
+When a corporation itself issues new shares of stock, and sells them to investors, it does so on the primary market. After this initial transaction between the corporation and investors, the shares continue to trade in a secondary market, between investors, without the involvement of the corporation. 
+
+For example, if you wish to buy 100 shares of Starbucks Coffee, you would place an order on a stock exchange, where Starbucks trades under the ticker symbol SBUX. You would buy your shares from someone who already held shares of Starbucks, not from Starbucks itself. Because firms only occasionally issue new shares, secondary market trading accounts for the vast majority of trading in the stock market.
+
+### Traditional Trading Venues
+Historically, a firm would choose one stock exchange on which to list its stock, and almost all trade in the stock would occur on that exchange. In the U.S., the two most important exchanges are the New York Stock Exchange (NYSE), and the National Association of Security Dealers Automated Quotation (NASDAQ).
+
+Prior to 2005, almost all trade on the NYSE took place on the exchange's trading floor in lower Manhattan. Market makers (known then on the NYSE as specialists) matched buyers and sellers. They posted two prices for every stock in which they made a market: the price at which they were willing to buy the stock (the bid price), and the price at which they were willing to sell the stock (the ask price). When a customer arrived and wanted to make a trade at these prices, the market maker would honor the posted prices (up to a limited number of shares) and make the trade even when they did not have another customer willing to take the other side of the trade. In this way, market makers provided liquidity by ensuring that market participants always had somebody to trade with.
+
+
+
 
 
 
