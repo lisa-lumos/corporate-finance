@@ -189,6 +189,18 @@ Historically, a firm would choose one stock exchange on which to list its stock,
 
 Prior to 2005, almost all trade on the NYSE took place on the exchange's trading floor in lower Manhattan. Market makers (known then on the NYSE as specialists) matched buyers and sellers. They posted two prices for every stock in which they made a market: the price at which they were willing to buy the stock (the bid price), and the price at which they were willing to sell the stock (the ask price). When a customer arrived and wanted to make a trade at these prices, the market maker would honor the posted prices (up to a limited number of shares) and make the trade even when they did not have another customer willing to take the other side of the trade. In this way, market makers provided liquidity by ensuring that market participants always had somebody to trade with.
 
+In contrast to the NYSE, the NASDAQ market never had a trading floor. Instead, all trades were completed over the phone or on a computer network. An important difference between the NYSE and NASDAQ was that on the NYSE, each stock had only one market maker. On the NASDAQ, stocks had multiple market makers who competed with one another. Each market maker posted bid and ask prices on the NASDAQ network that were viewed by all participants.
+
+Market makers make money because ask prices are higher than bid prices. This difference is called the bid-ask spread. Customers always buy at the ask (the higher price) and sell at the bid (the lower price). The bid-ask spread is a transaction cost investors pay in order to trade. Because specialists on the NYSE took the other side of the trade from their customers, this cost accrued to them as a profit. This was the compensation they earned for providing a liquid market by standing ready to honor any quoted price. Investors also paid other forms of transactions costs like commissions.
+
+### New Competition and Market Changes
+Stock markets have gone through enormous changes in the last decade. In 2005, the NYSE and NASDAQ exchanges accounted for over 75% of all trade in U.S. stocks. Since that time, however, they have faced increasing competition from new fully electronic exchanges, as well as alternative trading systems. Today, these new entrants handle more than 50% of all trades. 
+
+With this change in market structure, the role of an official market maker has largely disappeared. Because all transactions occur electronically with computers matching buy and sell orders, anyone can make a market in a stock by posting a limit order - an order to buy or sell a set amount at a fixed price. 
+
+For example, a limit buy order might be an order to buy 100 shares of IBM at a price of $138/share. The bid-ask spread of a stock is determined by the outstanding limit orders. The limit sell order with the lowest price is the ask price. The limit buy order with the highest price is the bid price. Traders make the market in the stock by posting limit buy and sell orders. 
+
+The collection of all limit orders is known as the limit order book. Exchanges make their limit order books public, so that investors (or their brokers) can see the best bid and ask prices when deciding where to trade.
 
 
 
@@ -198,7 +210,16 @@ Prior to 2005, almost all trade on the NYSE took place on the exchange's trading
 
 
 
-## Other Notes
+
+
+
+
+
+
+
+
+
+## Appendix: Other Notes
 Goldman Sachs discussion on converting from a partnership to a corporation:
 - Public corporation: 
   - Offers greater financial and strategic flexibility, for aggressive growth
