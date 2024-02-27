@@ -202,22 +202,12 @@ For example, a limit buy order might be an order to buy 100 shares of IBM at a p
 
 The collection of all limit orders is known as the limit order book. Exchanges make their limit order books public, so that investors (or their brokers) can see the best bid and ask prices when deciding where to trade.
 
+When news about a stock arrives that causes the price of that stock to move, smart traders will quickly take advantage of the existing limit orders by executing trades at the old prices. To protect themselves against this possibility, liquidity providers need to constantly monitor the market, cancelling old orders and posting new orders when appropriate. 
 
+So-called high frequency traders (HFTs) are a class of traders who, with the aid of computers, will place, update, cancel, and execute trades many times per second in response to new information as well as other orders, profiting both by providing liquidity and by taking advantage of stale limit orders.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Dark Pools
+When trading on an exchange, investors are guaranteed the opportunity to trade immediately at the current bid or ask price, and transactions are visible to all traders when they occur. In contrast, alternative trading systems called dark pools do not make their limit order books visible. Instead, these dark pools offer investors the ability to trade at a better price (for example, the average of the bid and ask, thus saving the bid-ask spread), with the tradeoff being that the order might not be filled if an excess of either buy or sell orders is received. Trading on a dark pool is therefore attractive to traders who do not want to reveal their demand and who are willing to sacrifice the guarantee of immediacy for a potentially better price.
 
 ## Appendix: Other Notes
 Goldman Sachs discussion on converting from a partnership to a corporation:
@@ -236,23 +226,3 @@ What drove the conversion:
 - To secure permanent capital to grow
 - To be able to use publicly traded securities, to finance acquisitions;
 - To enhance the culture of ownership, and gain compensation flexibility.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
