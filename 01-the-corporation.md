@@ -92,11 +92,11 @@ It is often not feasible for the owners of a corporation to have direct control 
 ### The Corporate Management Team
 Rather than the owners, the "board of directors", and "chief executive officer", possess direct control of the corporation. 
 
-The shareholders of a corporation exercise their control, by electing a board of directors, a group of people who have the ultimate decision-making authority in the corporation.
+The shareholders of a corporation exercise their control, by electing a board of directors - a group of people who have the ultimate decision-making authority in the corporation.
 
-In most corporations, each share of stock gives a shareholder one vote in the election of the board of directors, so investors with the most shares have the most influence. When one or two shareholders own a very large proportion of the outstanding stock, these shareholders may either be on the board of directors themselves, or they may have the right to appoint a number of directors.
+In most corporations, each share of stock gives a shareholder 1 vote in the election of the board of directors, so investors with the most shares have the most influence. When one or two shareholders own a very large proportion of the outstanding stock, these shareholders may either be on the board of directors themselves, or they may have the right to appoint a number of directors.
 
-The board of directors makes rules, on how the corporation should be run (including how the top managers in the corporation are compensated), sets policy, and monitors the performance of the company. 
+The board of directors makes rules, on how the corporation should be run, how the top managers in the corporation are paid, sets policy, and monitors company performance. 
 
 The board of directors delegates most decisions, that involve day-to-day running of the corporation, to its management. The chief executive officer (CEO) is charged with running the corporation by instituting the rules and policies set by the board of directors. The size of the rest of the management team varies from corporation to corporation. 
 
