@@ -111,7 +111,7 @@ A typical organizational chart:
 </p>
 
 ### The Financial Manager
-Within the corporation, financial managers are responsible for three main tasks: making investment decisions, making financing decisions, and managing the firm's cash flows.
+Within the corporation, financial managers are responsible for: making investment/financing decisions, and managing the firm's cash flows.
 
 Investment Decisions. It is the financial manager's most important job. They must weigh the costs and benefits of all investments and projects, and decide which of them qualify as good uses of the money stockholders have invested in the firm. These investment decisions fundamentally shape what the firm does, and whether it will add value for its owners. 
 
@@ -138,7 +138,7 @@ A corporation is run by a management team, separate from its owners, giving rise
 
 The agency problem: when managers, despite being hired as the agents of shareholders, put their own self-interest ahead of the interests of shareholders. Managers face the ethical dilemma of whether to adhere to their responsibility to put the interests of shareholders first, or to do what is in their own personal best interest.
 
-This problem is commonly addressed in practice, by minimizing the number of decisions managers must make, for which their own self-interest substantially differs from the interests of the shareholders. For example, managers' compensation contracts are designed to ensure that most decisions in the shareholders' interest are also in the managers' interests; shareholders often tie the compensation of top managers to the corporation's profits, or perhaps to its stock price.
+This problem is commonly addressed in practice, by minimizing the number of decisions managers must make, for which their own self-interest substantially differs from the interests of the shareholders. For example, managers' compensation contracts are designed to ensure that most decisions in the shareholders' interest are also in the managers' interests; shareholders often tie the compensation of top managers to the corporation's profits, or to its stock price.
 
 There is, however, a limitation to this strategy. By tying compensation too closely to performance, the shareholders might be asking managers to take on more risk than they are comfortable taking. As a result, managers may not make decisions that the shareholders want them to, or it might be hard to find talented managers willing to accept the job. On the other hand, if compensation contracts reduce managers' risk, by rewarding good performance, but limiting the penalty associated with poor performance, managers may have an incentive to take excessive risk.
 
@@ -168,7 +168,7 @@ Corporate bankruptcy. Ordinarily, a corporation is run on behalf of its sharehol
 
 To prevent such a seizure, the firm may attempt to renegotiate with the debt holders, or file for bankruptcy protection in a federal court. Ultimately, however, if the firm is unable to repay or renegotiate with the debt holders, the control of the corporation's assets will be transferred to them.
 
-Thus, when a firm fails to repay its debts, the end result is a change in ownership of the firm, with control passing from equity holders to debt holders. Importantly, bankruptcy need not result in a liquidation of the firm, which involves shutting down the business and selling off its assets. Even if control of the firm passes to the debt holders, it is in the debt holders' interest to run the firm in the most profitable way possible. Doing so often means keeping the business operating.
+Thus, when a firm fails to repay its debts, the end result is a change in ownership of the firm, with its control being passed from equity holders to debt holders. Importantly, bankruptcy need not result in a liquidation of the firm, which involves shutting down the business and selling off its assets. Even if control of the firm passes to the debt holders, it is in the debt holders' interest to run the firm in the most profitable way possible. Doing so often means keeping the business operating.
 
 Thus, a corporate bankruptcy is best thought of as a change in ownership of the corporation, and not necessarily as a failure of the underlying business.
 
