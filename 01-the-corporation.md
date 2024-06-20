@@ -175,7 +175,7 @@ Thus, a corporate bankruptcy is best thought of as a change in ownership of the 
 ## 1.3 The Stock Market
 Because private companies have a limited set of shareholders, and their shares are not regularly traded, the value of their shares can be difficult to determine. But many corporations are public companies, whose shares trade on organized markets, called a stock market (or stock exchange).
 
-These markets provide liquidity, and determine a market price for the company's shares. An investment liquid, if it is possible to sell it quickly and easily, for a price very close to the price at which you could contemporaneously buy it. 
+These markets provide liquidity, and determine a market price for the company's shares. An investment is liquid, if it is possible to sell it quickly and easily, for a price very close to the price at which you could contemporaneously buy it. 
 
 This liquidity is attractive to outside investors, as it provides flexibility regarding the timing and duration of their investment in the firm. In addition, the research and trading of participants in these markets give rise to share prices, that provide constant feedback to managers regarding investors' views of their decisions.
 
