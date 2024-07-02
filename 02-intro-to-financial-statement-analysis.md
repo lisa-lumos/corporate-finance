@@ -14,11 +14,11 @@ Reports about a company's performance must be understandable and accurate. Gener
 
 Investors also need some assurance that the financial statements are prepared accurately. Corporations are required to hire a neutral third party, aka an auditor, to check the annual financial statements, to ensure that the annual financial statements are reliable and prepared according to GAAP. 
 
-
-
-
-
-
+Every public company is required to produce 4 financial statements: 
+- the balance sheet, 
+- the income statement, 
+- the statement of cash flows, 
+- the statement of stockholders' equity.
 
 ## 2.2 The balance sheet
 
