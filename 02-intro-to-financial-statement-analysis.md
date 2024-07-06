@@ -21,6 +21,12 @@ Every public company is required to produce 4 financial statements:
 - the statement of stockholders' equity.
 
 ## 2.2 The balance sheet
+The "balance sheet", or "statement of financial position", lists the firm's assets and liabilities, providing a snapshot of the firm's financial position at a given point in time:
+- The "assets" list the cash, inventory, property, plant, and equipment, and other investments the company has made
+- the "liabilities" show the firm's obligations to creditors
+
+Stockholders' equity, the difference between the firm's assets and liabilities, is an accounting measure of the firm's net worth. `Assets = Liabilities + Stockholders' Equity`. 
+
 
 ## 2.3 The income statement
 
