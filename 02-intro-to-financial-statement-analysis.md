@@ -27,6 +27,37 @@ The "balance sheet", or "statement of financial position", lists the firm's asse
 
 Stockholders' equity, the difference between the firm's assets and liabilities, is an accounting measure of the firm's net worth. `Assets = Liabilities + Stockholders' Equity`. 
 
+Assets. They are divided into:
+1. Current Assets. Cash, or assets that could be converted into cash within one year.
+2. Long-Term Assets. Net property, plant, and equipment. Brand names and trademarks, patents, customer relationships, and employees. 
+
+The "book value" of an asset, shown in firm's financial statements, is equal to its acquisition cost less accumulated depreciation. 
+
+Liabilities. They are divided into:
+1. Current Liabilities. Liabilities that will be satisfied within one year, such as accounts payable, short-term debt, owed taxes, etc. 
+2. Long-term Liabilities. Liabilities that extend beyond one year. Long-term debt, Capital leases (such as building lease), Deferred taxes, etc. 
+
+The difference between "current assets" and "current liabilities" is the firm's "net working capital", the capital available in the short term to run the business. Firms with low/negative net working capital may face a shortage of funds, unless they generate sufficient cash from their ongoing activities.
+
+The book value of equity, while accurate from an accounting perspective, is an inaccurate assessment of the true value of the firm's equity (due to outdated data, unmeasurable assets such as employee skills, etc).
+
+Successful firms are often able to borrow in excess of the "book value" of their assets, because creditors recognize that the "market value" of the assets is far higher than the "book value". Thus, the book value of equity will often differ substantially from the amount investors are willing to pay for the equity.
+
+The total "market value" of a firm's equity equals the number of shares outstanding times the firm's market price per share: `Market Value of Equity = Shares outstanding * Market price per share`. 
+
+The "market value" of equity is often referred to as the company's market capitalization (or "market cap"). The market value of a stock does not depend on the historical cost of the firm's assets; instead, it depends on what investors expect those assets to produce in the future.
+
+The "market-to-book ratio", also called the "price-to-book P/B ratio": 
+`Market-to-Book Ratio = Market Value of Equity / Book Value of Equity`.
+
+
+
+
+
+
+
+
+
 
 ## 2.3 The income statement
 
