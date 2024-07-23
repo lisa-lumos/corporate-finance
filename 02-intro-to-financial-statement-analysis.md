@@ -50,14 +50,9 @@ The "market value" of equity is often referred to as the company's market capita
 The "market-to-book ratio", also called the "price-to-book P/B ratio": 
 `Market-to-Book Ratio = Market Value of Equity / Book Value of Equity`.
 
+Analysts often classify firms with low market-to-book ratios as "value stocks", and those with high market-to-book ratios as "growth stocks".
 
-
-
-
-
-
-
-
+The "enterprise value" is the cost to take over the business.
 
 ## 2.3 The income statement
 
