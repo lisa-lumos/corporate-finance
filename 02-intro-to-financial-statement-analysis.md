@@ -55,6 +55,15 @@ Analysts often classify firms with low market-to-book ratios as "value stocks", 
 The "enterprise value" is the cost to take over the business.
 
 ## 2.3 The income statement
+The "income statement", or "statement of financial performance" lists the firm's revenues and expenses over a period of time.
+
+The income statement is sometimes called a "profit and loss", or "P&L statement", and the net income is also referred to as the firm's "earnings".
+
+
+
+
+
+
 
 ## 2.4 The statement of cash flows
 
