@@ -59,9 +59,11 @@ The "income statement", or "statement of financial performance" lists the firm's
 
 The income statement is sometimes called a "profit and loss", or "P&L statement", and the net income is also referred to as the firm's "earnings".
 
+"Cost of sales" are costs directly related to producing the goods/services being sold, such as manufacturing costs. Other costs such as administrative expenses, research and development, and interest expenses are not included in the "cost of sales".
 
+"Operating expenses" are expenses from the ordinary course of running the business that are not directly related to producing the goods/services being sold. They include administrative expenses and overhead, salaries, marketing costs, and research and development expenses. The third type of operating expense, depreciation and amortization, is not an actual cash expense but represents an estimate of the costs that arise from wear and tear or obsolescence of the firm's assets.
 
-
+The firm's "gross profit" net of "operating expenses" is called "operating income".
 
 
 
